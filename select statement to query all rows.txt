@@ -1,0 +1,6 @@
+sqlite> select * from movies;
+don|amitabh|priyanka|cibi|2002
+bahubali|prabhas|anushka|ss rajamouli|2015
+koi mil gaya|hrithik|priti zinta|rakesh roshan|2003
+avengers endgame|robert downey jr|natasha romanoff|joe russo|2019
+terminator|arnold schwazenegger|emilio|alan taylor|2015

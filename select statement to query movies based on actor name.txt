@@ -1,0 +1,6 @@
+sqlite> select name, actor from movies;
+don|amitabh
+bahubali|prabhas
+koi mil gaya|hrithik
+avengers endgame|robert downey jr
+terminator|arnold schwazenegger

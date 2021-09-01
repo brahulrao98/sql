@@ -1,0 +1,13 @@
+cd c:\sqlite
+
+c:\sqlite>sqlite3
+SQLite version 3.36.0 2021-06-18 18:36:39
+Enter ".help" for usage hints.
+Connected to a transient in-memory database.
+Use ".open FILENAME" to reopen on a persistent database.
+sqlite> .open MOVIES.db
+sqlite> insert into movies (name,actor,actress,director,year) values('don', 'amitabh', 'priyanka', 'cibi',2002);
+sqlite> insert into movies (name,actor,actress,director,year) values('bahubali', 'prabhas', 'anushka', 'ss rajamouli',2015);
+sqlite> insert into movies (name,actor,actress,director,year) values('koi mil gaya', 'hrithik', 'priti zinta', 'rakesh roshan',2003);
+sqlite> insert into movies (name,actor,actress,director,year) values('avengers endgame', 'robert downey jr', 'natasha romanoff', 'joe russo', 2019);
+sqlite> insert into movies (name,actor,actress,director,year) values('terminator', 'arnold schwazenegger', 'emilio', 'alan taylor', 2015);
